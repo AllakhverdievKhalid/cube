@@ -1,0 +1,18 @@
+*
+{
+    width: 300px;
+    height: 300px;
+   
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+body{
+    display: flex;
+  align-items: center;
+  margin: 10% 10%;
+}
+.swiper-wrapper
+
+{
+
+}
